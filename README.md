@@ -1,2 +1,2 @@
 # CyberNetRules
-The rules for CyberNet
+The rules for CyberNet... to be continued...
